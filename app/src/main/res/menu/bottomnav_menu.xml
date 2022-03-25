@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bnmhome"
+        android:enabled="true"
+        android:icon="@drawable/ic_home"
+        android:title="Home"/>
+    <item
+        android:id="@+id/bnmnotification"
+        android:icon="@drawable/ic_notification"
+        android:enabled="true"
+        android:title="Notification"/>
+    <item
+        android:id="@+id/bnmpayroll"
+        android:icon="@drawable/ic_payroll"
+        android:enabled="true"
+        android:title="Payroll"/>
+    <item
+        android:id="@+id/bnmmessage"
+        android:icon="@drawable/ic_message"
+        android:enabled="true"
+        android:title="Message"/>
+    <item
+        android:id="@+id/bnmprofile"
+        android:icon="@drawable/ic_profle"
+        android:enabled="true"
+        android:title="Profile"/>
+</menu>

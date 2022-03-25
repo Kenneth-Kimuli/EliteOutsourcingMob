@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "958077309393",
+    "firebase_url": "https://eliteoutsourcing-cf8c8-default-rtdb.firebaseio.com",
+    "project_id": "eliteoutsourcing-cf8c8",
+    "storage_bucket": "eliteoutsourcing-cf8c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958077309393:android:126aba43b4bb9d6c8710f0",
+        "android_client_info": {
+          "package_name": "com.example.eliteoutsourcing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958077309393-gm96ptd8ujf14vnofpurpkfvc1p5n271.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eliteoutsourcing",
+            "certificate_hash": "92cf40e4379b6d2c4d47a3638830ebaba7978606"
+          }
+        },
+        {
+          "client_id": "958077309393-87bhc74an2ofcmie02vqcod4qp3qd3i7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTatX6licPIs44mSRsw4idOceYvycNfA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958077309393-87bhc74an2ofcmie02vqcod4qp3qd3i7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

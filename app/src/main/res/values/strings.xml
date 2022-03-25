@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">EliteOutsourcing</string>
+
+    <string name="reg_act">Registration</string>
+    <string name="todo">TODO</string>
+    <string name="first_name">First Name</string>
+    <string name="surname_name">Surname</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="email_address">Email Address</string>
+    <string name="enter">Enter</string>
+    <string name="new_password">New Password</string>
+    <string name="logo_des">TODO</string>
+    <string name="login">LogIn</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">Username</string>
+    <string name="hospitality_management"><![CDATA[Hospitality & Management]]></string>
+</resources>
